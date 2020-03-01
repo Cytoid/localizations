@@ -1,0 +1,12 @@
+{
+  "name": "cytoid-localizations",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.19.2",
+    "dotenv": "^8.2.0",
+    "mongodb": "^3.5.4"
+  },
+  "scripts": {
+  	"sync": "node index.js"
+  }
+}
